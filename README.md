@@ -1,6 +1,6 @@
 # tmx-exercise
 
-The required function in implemented org.tmx.strategy.OctalDecodeStrategy
+The required function is implemented org.tmx.strategy.OctalDecodeStrategy
 
 Please see junit tests org.tmx.strategy.OctalDecodeStrategyTest
 
